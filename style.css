@@ -1,0 +1,122 @@
+
+#w1{
+    font-size: 3rem; 
+    margin-left: 10px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.img1{
+    border-radius: 15px;
+    transform: rotate(20deg);
+    position: absolute;
+    right: 20%;
+}
+#title{
+    background-color: rgb(0, 195, 255);
+}
+.ww{
+    margin-left: 15px;
+    font-size: 3rem;
+    font-family: 'Indie Flower', cursive;
+}
+.container-fluid{
+    padding: 3% 5% 8% ;
+}
+.nav-item{
+    padding: 0 20px;
+    font-size: 130%;
+}
+.dwnld{
+    margin: 3% 0% 5% 5%;
+}
+.img-div{
+    padding-bottom: 19%;
+}
+@media (max-width: 990px){
+   .img1{
+       position: static;
+       transform: rotate(0);
+   } 
+   #title{
+       text-align: center;
+   }
+}
+
+
+
+#features{
+    padding: 7% 15%;
+    background-color: white;
+    position: relative;
+    z-index: 1;
+}
+.fbox{
+    text-align: center;
+    padding: 5%;
+}
+h3{
+    font-family: 'Abril Fatface', cursive;
+}
+p{
+    color: gray;
+}
+.icon{
+    color:  rgb(0, 119, 255); 
+    margin-bottom: 1rem;
+}
+.icon:hover{
+    color: rgb(0, 195, 255);
+}
+
+
+
+.img2{
+    height: 20%;
+    border-radius: 100%;
+    margin: 25px;
+}
+#testimonials{
+    
+    text-align: center;
+    background-color:  rgb(0, 162, 255);
+}
+.w2{
+    font-family: 'Indie Flower-italic', cursive;
+    font-size: 2.5rem;
+    line-height: 3.5rem;
+}
+.carousel-item{
+    padding: 7% 15%;
+}
+
+
+#pricing{
+    padding: 100px;
+    text-align: center;
+}
+.pc{
+    padding: 3% 5%;
+}
+
+
+#last-sec{
+    background-color: rgb(0, 195, 255);
+    padding: 7% 15%;
+    text-align: center;
+}
+.last-h{
+    font-size: 2.5rem;
+    line-height: 5rem;
+}
+
+footer{
+    padding: 7% 15%;
+    text-align: center;
+}
+.f-icon{
+    font-size: 2rem;
+    margin-top: 20px;
+}
+.social{
+    padding: 10px;
+    font-size: 2rem ;
+}
