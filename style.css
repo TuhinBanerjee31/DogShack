@@ -1,3 +1,6 @@
+body{
+    overflow-x: hidden;
+}
 
 #w1{
     font-size: 3rem; 
